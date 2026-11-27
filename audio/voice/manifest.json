@@ -1,0 +1,1055 @@
+{
+ "model": "eleven_multilingual_v2",
+ "voices": {
+  "dusk": {
+   "name": "Brian",
+   "lines": {
+    "11538162": {
+     "text": "One…",
+     "parts": [
+      {
+       "file": "dusk/11538162-0.mp3",
+       "command": false,
+       "hash": "416f7e1d42ce"
+      }
+     ]
+    },
+    "70190240": {
+     "text": "And think of tomorrow. One small step you could take, so small it's almost too easy.",
+     "parts": [
+      {
+       "file": "dusk/70190240-0.mp3",
+       "command": false,
+       "hash": "d04698912a2f"
+      }
+     ]
+    },
+    "89519319": {
+     "text": "When you have it, tap anywhere, or simply say yes. And if nothing comes yet, that's alright. A part of you can choose.",
+     "parts": [
+      {
+       "file": "dusk/89519319-0.mp3",
+       "command": false,
+       "hash": "c87dc1cb1c70"
+      }
+     ]
+    },
+    "b167a24b": {
+     "text": "Hello. Whenever you are ready, we can drift somewhere quiet together… and you can simply listen.",
+     "parts": [
+      {
+       "file": "dusk/b167a24b-0.mp3",
+       "command": false,
+       "hash": "59fda6148aa1"
+      }
+     ]
+    },
+    "d0dced98": {
+     "text": "That's alright. We'll come back up now, gently.",
+     "parts": [
+      {
+       "file": "dusk/d0dced98-0.mp3",
+       "command": false,
+       "hash": "396cfa1f3dae"
+      }
+     ]
+    },
+    "23fe6d41": {
+     "text": "Everything in your body returns to normal, just as it should be.",
+     "parts": [
+      {
+       "file": "dusk/23fe6d41-0.mp3",
+       "command": false,
+       "hash": "7046b0b8b8e6"
+      }
+     ]
+    },
+    "9e56eb60": {
+     "text": "two…",
+     "parts": [
+      {
+       "file": "dusk/9e56eb60-0.mp3",
+       "command": false,
+       "hash": "cc74c0946055"
+      }
+     ]
+    },
+    "3931c68b": {
+     "text": "three, a fuller breath…",
+     "parts": [
+      {
+       "file": "dusk/3931c68b-0.mp3",
+       "command": false,
+       "hash": "570c2459c4d1"
+      }
+     ]
+    },
+    "cf4a49a2": {
+     "text": "four…",
+     "parts": [
+      {
+       "file": "dusk/cf4a49a2-0.mp3",
+       "command": false,
+       "hash": "80639b8b6f10"
+      }
+     ]
+    },
+    "01d321c3": {
+     "text": "five. Eyes open, clear and calm.",
+     "parts": [
+      {
+       "file": "dusk/01d321c3-0.mp3",
+       "command": false,
+       "hash": "cc82487a47ee"
+      }
+     ]
+    },
+    "d7318318": {
+     "text": "Settle in, sitting or lying down.",
+     "parts": [
+      {
+       "file": "dusk/d7318318-0.mp3",
+       "command": false,
+       "hash": "b14e8a5181dd"
+      }
+     ]
+    },
+    "d78287b2": {
+     "text": "You're in control, and you can come back up any time.",
+     "parts": [
+      {
+       "file": "dusk/d78287b2-0.mp3",
+       "command": false,
+       "hash": "c83189f7e639"
+      }
+     ]
+    },
+    "f5ff5c20": {
+     "text": "Let your eyes close, or let them rest softly on one spot.",
+     "parts": [
+      {
+       "file": "dusk/f5ff5c20-0.mp3",
+       "command": false,
+       "hash": "1181f8f29ec3"
+      }
+     ]
+    },
+    "51b5cd6d": {
+     "text": "Breathe in slowly…",
+     "parts": [
+      {
+       "file": "dusk/51b5cd6d-0.mp3",
+       "command": false,
+       "hash": "ce8f05ec468f"
+      }
+     ]
+    },
+    "d4d854c3": {
+     "text": "and let the breath go, [[all the way out]].",
+     "parts": [
+      {
+       "file": "dusk/d4d854c3-0.mp3",
+       "command": false,
+       "hash": "9f2d7b670057"
+      },
+      {
+       "file": "dusk/d4d854c3-1.mp3",
+       "command": true,
+       "hash": "3d5209df3fcc"
+      }
+     ]
+    },
+    "dee8dfe0": {
+     "text": "In again…",
+     "parts": [
+      {
+       "file": "dusk/dee8dfe0-0.mp3",
+       "command": false,
+       "hash": "8715c168c076"
+      }
+     ]
+    },
+    "aec417ef": {
+     "text": "and out, a little slower.",
+     "parts": [
+      {
+       "file": "dusk/aec417ef-0.mp3",
+       "command": false,
+       "hash": "75140ec8650f"
+      }
+     ]
+    },
+    "829b40bf": {
+     "text": "In…",
+     "parts": [
+      {
+       "file": "dusk/829b40bf-0.mp3",
+       "command": false,
+       "hash": "9e75e21a4009"
+      }
+     ]
+    },
+    "01e531ed": {
+     "text": "and out. Shoulders soften. Jaw softens.",
+     "parts": [
+      {
+       "file": "dusk/01e531ed-0.mp3",
+       "command": false,
+       "hash": "947828ccc617"
+      }
+     ]
+    },
+    "cff54275": {
+     "text": "This breath is yours. You can come back to it whenever you like.",
+     "parts": [
+      {
+       "file": "dusk/cff54275-0.mp3",
+       "command": false,
+       "hash": "fa0d8c736992"
+      }
+     ]
+    },
+    "7bb09c48": {
+     "text": "Everything returns to just as it should be.",
+     "parts": [
+      {
+       "file": "dusk/7bb09c48-0.mp3",
+       "command": false,
+       "hash": "bbb69e6c1776"
+      }
+     ]
+    },
+    "401e0de6": {
+     "text": "three…",
+     "parts": [
+      {
+       "file": "dusk/401e0de6-0.mp3",
+       "command": false,
+       "hash": "0f9e10fded77"
+      }
+     ]
+    },
+    "86812dc7": {
+     "text": "five. Eyes open, calm and clear.",
+     "parts": [
+      {
+       "file": "dusk/86812dc7-0.mp3",
+       "command": false,
+       "hash": "ef9be4481013"
+      }
+     ]
+    },
+    "d6abeac4": {
+     "text": "Welcome. This is First Drift: three quiet minutes to settle.",
+     "parts": [
+      {
+       "file": "dusk/d6abeac4-0.mp3",
+       "command": false,
+       "hash": "7ec37496203d"
+      }
+     ]
+    },
+    "01f6ac29": {
+     "text": "Find a comfortable place to sit or lie down, somewhere you won't need to pay attention to anything else.",
+     "parts": [
+      {
+       "file": "dusk/01f6ac29-0.mp3",
+       "command": false,
+       "hash": "8d9ffeef9153"
+      }
+     ]
+    },
+    "61d83df8": {
+     "text": "You're in control the whole time, and you can come back up whenever you choose.",
+     "parts": [
+      {
+       "file": "dusk/61d83df8-0.mp3",
+       "command": false,
+       "hash": "5a28a349d29f"
+      }
+     ]
+    },
+    "860f1920": {
+     "text": "Let your eyes close, or rest them softly on one spot. Either is fine.",
+     "parts": [
+      {
+       "file": "dusk/860f1920-0.mp3",
+       "command": false,
+       "hash": "87e080c074ba"
+      }
+     ]
+    },
+    "12fa5465": {
+     "text": "and let it go, [[all the way out]].",
+     "parts": [
+      {
+       "file": "dusk/12fa5465-0.mp3",
+       "command": false,
+       "hash": "0a877f8a1549"
+      },
+      {
+       "file": "dusk/12fa5465-1.mp3",
+       "command": true,
+       "hash": "945586c890cc"
+      }
+     ]
+    },
+    "ae2f4a4c": {
+     "text": "Let's breathe together for a few breaths. In through the nose…",
+     "parts": [
+      {
+       "file": "dusk/ae2f4a4c-0.mp3",
+       "command": false,
+       "hash": "8f02426faae4"
+      }
+     ]
+    },
+    "97a426ce": {
+     "text": "and out, slow and long.",
+     "parts": [
+      {
+       "file": "dusk/97a426ce-0.mp3",
+       "command": false,
+       "hash": "48f05212e608"
+      }
+     ]
+    },
+    "c1f744a4": {
+     "text": "In…",
+     "parts": [
+      {
+       "file": "dusk/c1f744a4-0.mp3",
+       "command": false,
+       "hash": "bdbe09a7199d"
+      }
+     ]
+    },
+    "de143a31": {
+     "text": "and out, as your shoulders begin to soften.",
+     "parts": [
+      {
+       "file": "dusk/de143a31-0.mp3",
+       "command": false,
+       "hash": "9de12847c38e"
+      }
+     ]
+    },
+    "8ccfe62f": {
+     "text": "and out, letting the breath breathe itself.",
+     "parts": [
+      {
+       "file": "dusk/8ccfe62f-0.mp3",
+       "command": false,
+       "hash": "c90a25bc2324"
+      }
+     ]
+    },
+    "e36e162c": {
+     "text": "You don't have to do anything now. Your body knows how to rest, and it's already beginning.",
+     "parts": [
+      {
+       "file": "dusk/e36e162c-0.mp3",
+       "command": false,
+       "hash": "7b69592cae90"
+      }
+     ]
+    },
+    "e02f37e0": {
+     "text": "Each out-breath can be a little softer than the one before.",
+     "parts": [
+      {
+       "file": "dusk/e02f37e0-0.mp3",
+       "command": false,
+       "hash": "81d833e8030d"
+      }
+     ]
+    },
+    "dac6dcd2": {
+     "text": "Just breathing…",
+     "parts": [
+      {
+       "file": "dusk/dac6dcd2-0.mp3",
+       "command": false,
+       "hash": "eb08de6c0b51"
+      }
+     ]
+    },
+    "05f36230": {
+     "text": "Resting…",
+     "parts": [
+      {
+       "file": "dusk/05f36230-0.mp3",
+       "command": false,
+       "hash": "836858e4b76d"
+      }
+     ]
+    },
+    "3a6ca5fb": {
+     "text": "Later today, whenever you want this feeling, three slow breaths like these can bring it back.",
+     "parts": [
+      {
+       "file": "dusk/3a6ca5fb-0.mp3",
+       "command": false,
+       "hash": "3ef2b1b78f06"
+      }
+     ]
+    },
+    "fa0fe68e": {
+     "text": "In a moment I'll count up to five. Anything that felt heavy returns to normal, and you keep the calm.",
+     "parts": [
+      {
+       "file": "dusk/fa0fe68e-0.mp3",
+       "command": false,
+       "hash": "e2b2b4be7919"
+      }
+     ]
+    },
+    "7754dd99": {
+     "text": "two, a fuller breath…",
+     "parts": [
+      {
+       "file": "dusk/7754dd99-0.mp3",
+       "command": false,
+       "hash": "f6c34865ae98"
+      }
+     ]
+    },
+    "869916e3": {
+     "text": "three, moving your fingers…",
+     "parts": [
+      {
+       "file": "dusk/869916e3-0.mp3",
+       "command": false,
+       "hash": "7349b016c654"
+      }
+     ]
+    },
+    "cefc8be7": {
+     "text": "Welcome to One Year Downstream. For the next ten minutes, we'll travel gently forward in time, to see where a small change can take you.",
+     "parts": [
+      {
+       "file": "dusk/cefc8be7-0.mp3",
+       "command": false,
+       "hash": "b3c291dd6df6"
+      }
+     ]
+    },
+    "321a66c4": {
+     "text": "Make sure you're sitting or lying comfortably, and not driving or doing anything that needs your attention.",
+     "parts": [
+      {
+       "file": "dusk/321a66c4-0.mp3",
+       "command": false,
+       "hash": "27c939080def"
+      }
+     ]
+    },
+    "082099b0": {
+     "text": "You're in control throughout. To come back at any moment, open your eyes or tap Come back up.",
+     "parts": [
+      {
+       "file": "dusk/082099b0-0.mp3",
+       "command": false,
+       "hash": "91fd00fce6b3"
+      }
+     ]
+    },
+    "44c0e830": {
+     "text": "Let your eyes close whenever they're ready… and take a slow breath in…",
+     "parts": [
+      {
+       "file": "dusk/44c0e830-0.mp3",
+       "command": false,
+       "hash": "a05d7a1bc5fc"
+      }
+     ]
+    },
+    "f85be008": {
+     "text": "and out, letting your shoulders settle.",
+     "parts": [
+      {
+       "file": "dusk/f85be008-0.mp3",
+       "command": false,
+       "hash": "dcb16f1ac6fd"
+      }
+     ]
+    },
+    "7aba4a0d": {
+     "text": "You can hear my voice, and the sounds around you, and you can feel the places where your body is supported.",
+     "parts": [
+      {
+       "file": "dusk/7aba4a0d-0.mp3",
+       "command": false,
+       "hash": "86929baafdf0"
+      }
+     ]
+    },
+    "4a8c5281": {
+     "text": "And each sound you hear can take you a little further inward.",
+     "parts": [
+      {
+       "file": "dusk/4a8c5281-0.mp3",
+       "command": false,
+       "hash": "b29c2575e315"
+      }
+     ]
+    },
+    "c7cb86b9": {
+     "text": "Now imagine you're lying in a small, safe boat, on a wide, slow river at dusk. The boat is steady. The water is calm.",
+     "parts": [
+      {
+       "file": "dusk/c7cb86b9-0.mp3",
+       "command": false,
+       "hash": "09517d500522"
+      }
+     ]
+    },
+    "ee2919a3": {
+     "text": "The boat rocks, ever so slightly, in time with your breathing.",
+     "parts": [
+      {
+       "file": "dusk/ee2919a3-0.mp3",
+       "command": false,
+       "hash": "36c2d8dfb464"
+      }
+     ]
+    },
+    "8a541825": {
+     "text": "I'll count down from five to one, and with each number the river carries you a little further downstream, and a little deeper into rest.",
+     "parts": [
+      {
+       "file": "dusk/8a541825-0.mp3",
+       "command": false,
+       "hash": "fd96b4c9866b"
+      }
+     ]
+    },
+    "1a67362b": {
+     "text": "Five… drifting.",
+     "parts": [
+      {
+       "file": "dusk/1a67362b-0.mp3",
+       "command": false,
+       "hash": "4125e9a2e63a"
+      }
+     ]
+    },
+    "c723675e": {
+     "text": "Four… the banks slipping softly by.",
+     "parts": [
+      {
+       "file": "dusk/c723675e-0.mp3",
+       "command": false,
+       "hash": "74781c2b17f7"
+      }
+     ]
+    },
+    "7d478883": {
+     "text": "Three… nothing to do, nowhere to be.",
+     "parts": [
+      {
+       "file": "dusk/7d478883-0.mp3",
+       "command": false,
+       "hash": "14c8a7b7117a"
+      }
+     ]
+    },
+    "a024137b": {
+     "text": "Two… deeper still.",
+     "parts": [
+      {
+       "file": "dusk/a024137b-0.mp3",
+       "command": false,
+       "hash": "1c9496990b59"
+      }
+     ]
+    },
+    "ee91a30b": {
+     "text": "One… resting on the current.",
+     "parts": [
+      {
+       "file": "dusk/ee91a30b-0.mp3",
+       "command": false,
+       "hash": "246c16263296"
+      }
+     ]
+    },
+    "e05907d8": {
+     "text": "Floating. Easy. Unhurried.",
+     "parts": [
+      {
+       "file": "dusk/e05907d8-0.mp3",
+       "command": false,
+       "hash": "bb715e74c22b"
+      }
+     ]
+    },
+    "8fe589f3": {
+     "text": "Now let something come to mind that you'd like to grow in your life this year. Something small and real. A habit, a skill, a way of being.",
+     "parts": [
+      {
+       "file": "dusk/8fe589f3-0.mp3",
+       "command": false,
+       "hash": "bacc8d0c15b2"
+      }
+     ]
+    },
+    "515a45fc": {
+     "text": "Good. Hold it lightly, the way you might hold a smooth stone in your palm.",
+     "parts": [
+      {
+       "file": "dusk/515a45fc-0.mp3",
+       "command": false,
+       "hash": "12bca7b4fb02"
+      }
+     ]
+    },
+    "c19edbd5": {
+     "text": "Whether something clear has come to mind, or just a feeling of something, that's all you need. Hold it lightly.",
+     "parts": [
+      {
+       "file": "dusk/c19edbd5-0.mp3",
+       "command": false,
+       "hash": "ff813d8b904c"
+      }
+     ]
+    },
+    "3ce3c8a7": {
+     "text": "The river carries you forward now. One month downstream.",
+     "parts": [
+      {
+       "file": "dusk/3ce3c8a7-0.mp3",
+       "command": false,
+       "hash": "9c4f94760689"
+      }
+     ]
+    },
+    "0d941205": {
+     "text": "Notice the first small signs. Perhaps you've started. Perhaps you've simply begun to think about it differently. Small things count.",
+     "parts": [
+      {
+       "file": "dusk/0d941205-0.mp3",
+       "command": false,
+       "hash": "6d421a5c4069"
+      }
+     ]
+    },
+    "4a9a35be": {
+     "text": "Who is the first to notice? It might even be you.",
+     "parts": [
+      {
+       "file": "dusk/4a9a35be-0.mp3",
+       "command": false,
+       "hash": "87f373c654e1"
+      }
+     ]
+    },
+    "96b174de": {
+     "text": "Drifting on. Three months downstream.",
+     "parts": [
+      {
+       "file": "dusk/96b174de-0.mp3",
+       "command": false,
+       "hash": "b442e7f5edb1"
+      }
+     ]
+    },
+    "40b36187": {
+     "text": "What's become easier? What do you do now, almost without thinking, that once took effort?",
+     "parts": [
+      {
+       "file": "dusk/40b36187-0.mp3",
+       "command": false,
+       "hash": "4d89ff1c1991"
+      }
+     ]
+    },
+    "54bba5e2": {
+     "text": "Let yourself feel how natural it has become.",
+     "parts": [
+      {
+       "file": "dusk/54bba5e2-0.mp3",
+       "command": false,
+       "hash": "133410abf01b"
+      }
+     ]
+    },
+    "0706af55": {
+     "text": "On down the river. Ten months.",
+     "parts": [
+      {
+       "file": "dusk/0706af55-0.mp3",
+       "command": false,
+       "hash": "31f80a3d1289"
+      }
+     ]
+    },
+    "c8118ec2": {
+     "text": "And here, perhaps, there's a day when it didn't go to plan. A slip. A missed step. That happens on every river.",
+     "parts": [
+      {
+       "file": "dusk/c8118ec2-0.mp3",
+       "command": false,
+       "hash": "768d6d5119a3"
+      }
+     ]
+    },
+    "52d303c3": {
+     "text": "Notice how you got back on course. Sooner than you used to. Kinder to yourself than you used to be.",
+     "parts": [
+      {
+       "file": "dusk/52d303c3-0.mp3",
+       "command": false,
+       "hash": "edf631217238"
+      }
+     ]
+    },
+    "0fcafa51": {
+     "text": "And notice what that slip taught you, because it made the next stretch steadier.",
+     "parts": [
+      {
+       "file": "dusk/0fcafa51-0.mp3",
+       "command": false,
+       "hash": "e7e60cf652e5"
+      }
+     ]
+    },
+    "9bcd787b": {
+     "text": "And on. One year downstream.",
+     "parts": [
+      {
+       "file": "dusk/9bcd787b-0.mp3",
+       "command": false,
+       "hash": "f94501918917"
+      }
+     ]
+    },
+    "1d69fe14": {
+     "text": "Feel the boat slow, and settle, on wide and quiet water.",
+     "parts": [
+      {
+       "file": "dusk/1d69fe14-0.mp3",
+       "command": false,
+       "hash": "e2578c2cb270"
+      }
+     ]
+    },
+    "8a8204e5": {
+     "text": "Let the boat come to rest here, and look back upstream. See how far the river has carried you.",
+     "parts": [
+      {
+       "file": "dusk/8a8204e5-0.mp3",
+       "command": false,
+       "hash": "9420e1630a99"
+      }
+     ]
+    },
+    "1b30d631": {
+     "text": "How does it feel to be the person who made this journey? Let that feeling grow, wherever you notice it in your body.",
+     "parts": [
+      {
+       "file": "dusk/1b30d631-0.mp3",
+       "command": false,
+       "hash": "ebdec590385c"
+      }
+     ]
+    },
+    "fb97a21b": {
+     "text": "This feeling is a kind of learning. A part of you can remember the way.",
+     "parts": [
+      {
+       "file": "dusk/fb97a21b-0.mp3",
+       "command": false,
+       "hash": "cbd13d9b446b"
+      }
+     ]
+    },
+    "5bca468e": {
+     "text": "Now let the river carry you gently back upstream, to today, bringing that feeling with you.",
+     "parts": [
+      {
+       "file": "dusk/5bca468e-0.mp3",
+       "command": false,
+       "hash": "d1fed84ede7a"
+      }
+     ]
+    },
+    "ebb21082": {
+     "text": "See yourself taking it… and notice how good it feels to have begun.",
+     "parts": [
+      {
+       "file": "dusk/ebb21082-0.mp3",
+       "command": false,
+       "hash": "ad0192df5215"
+      }
+     ]
+    },
+    "1d9096e8": {
+     "text": "Every small step is the river moving.",
+     "parts": [
+      {
+       "file": "dusk/1d9096e8-0.mp3",
+       "command": false,
+       "hash": "7317b36b35f1"
+      }
+     ]
+    },
+    "73ea3c41": {
+     "text": "In a moment I'll count from one to five. Before I do, any heaviness or stillness in your body returns to normal. You keep the feeling of the journey.",
+     "parts": [
+      {
+       "file": "dusk/73ea3c41-0.mp3",
+       "command": false,
+       "hash": "17dff75bedaf"
+      }
+     ]
+    },
+    "6a84999f": {
+     "text": "One. The boat drifting gently to the bank.",
+     "parts": [
+      {
+       "file": "dusk/6a84999f-0.mp3",
+       "command": false,
+       "hash": "06b1bd3e3a2b"
+      }
+     ]
+    },
+    "f967ce68": {
+     "text": "Two. The sounds of the room returning.",
+     "parts": [
+      {
+       "file": "dusk/f967ce68-0.mp3",
+       "command": false,
+       "hash": "96ee5863adec"
+      }
+     ]
+    },
+    "528798fb": {
+     "text": "Three. A deeper breath, moving your fingers and toes.",
+     "parts": [
+      {
+       "file": "dusk/528798fb-0.mp3",
+       "command": false,
+       "hash": "3f1030ab8aa3"
+      }
+     ]
+    },
+    "502eaba2": {
+     "text": "Four. Clear and refreshed.",
+     "parts": [
+      {
+       "file": "dusk/502eaba2-0.mp3",
+       "command": false,
+       "hash": "0a9de2a61d50"
+      }
+     ]
+    },
+    "5c5ed79c": {
+     "text": "Five. Eyes open, wide awake, and ready for the next stretch.",
+     "parts": [
+      {
+       "file": "dusk/5c5ed79c-0.mp3",
+       "command": false,
+       "hash": "c80ea1992806"
+      }
+     ]
+    },
+    "943ab0dd": {
+     "text": "Hello, and welcome to Warm Waterfall.",
+     "parts": [
+      {
+       "file": "dusk/943ab0dd-0.mp3",
+       "command": false,
+       "hash": "dd0d6fd2121b"
+      }
+     ]
+    },
+    "50ea3021": {
+     "text": "Before we begin, make sure you're sitting or lying somewhere comfortable, and that you're not driving, or doing anything that needs your attention.",
+     "parts": [
+      {
+       "file": "dusk/50ea3021-0.mp3",
+       "command": false,
+       "hash": "acfe6abbc0af"
+      }
+     ]
+    },
+    "163ebdfe": {
+     "text": "You're in control the whole time. If you want to come back for any reason, just open your eyes, or tap Come back up.",
+     "parts": [
+      {
+       "file": "dusk/163ebdfe-0.mp3",
+       "command": false,
+       "hash": "96df2bdd2eaf"
+      }
+     ]
+    },
+    "93f6bac0": {
+     "text": "There's nothing to get right here. You don't even have to try to relax. You can simply listen.",
+     "parts": [
+      {
+       "file": "dusk/93f6bac0-0.mp3",
+       "command": false,
+       "hash": "4c9093a52e9e"
+      }
+     ]
+    },
+    "5fa65412": {
+     "text": "To begin, let your eyes rest on one spot in front of you. Any spot will do.",
+     "parts": [
+      {
+       "file": "dusk/5fa65412-0.mp3",
+       "command": false,
+       "hash": "44d4b49ae148"
+      }
+     ]
+    },
+    "791539aa": {
+     "text": "And as you keep looking at that spot, you may notice the edges of things beginning to soften.",
+     "parts": [
+      {
+       "file": "dusk/791539aa-0.mp3",
+       "command": false,
+       "hash": "5aaab4b3f40a"
+      }
+     ]
+    },
+    "a2b505df": {
+     "text": "You're breathing in, and breathing out. Hearing my voice. Feeling the weight of your body where it rests.",
+     "parts": [
+      {
+       "file": "dusk/a2b505df-0.mp3",
+       "command": false,
+       "hash": "08ccfb39fb86"
+      }
+     ]
+    },
+    "05c64522": {
+     "text": "Eyes that rest on one spot tend to grow tired, the way they do at the end of a long day.",
+     "parts": [
+      {
+       "file": "dusk/05c64522-0.mp3",
+       "command": false,
+       "hash": "03bf46ac24af"
+      }
+     ]
+    },
+    "a6659203": {
+     "text": "I don't know whether they'll [[close on their own]], or whether you'll [[let them close]] when you're ready.",
+     "parts": [
+      {
+       "file": "dusk/a6659203-0.mp3",
+       "command": false,
+       "hash": "028ad0aa13f0"
+      },
+      {
+       "file": "dusk/a6659203-1.mp3",
+       "command": true,
+       "hash": "6b5623e57c6c"
+      },
+      {
+       "file": "dusk/a6659203-2.mp3",
+       "command": false,
+       "hash": "399d7a3790f3"
+      },
+      {
+       "file": "dusk/a6659203-3.mp3",
+       "command": true,
+       "hash": "b0f4c2d9cc9e"
+      },
+      {
+       "file": "dusk/a6659203-4.mp3",
+       "command": false,
+       "hash": "8cebd0d3eec6"
+      }
+     ]
+    },
+    "775f424b": {
+     "text": "Either way is just right.",
+     "parts": [
+      {
+       "file": "dusk/775f424b-0.mp3",
+       "command": false,
+       "hash": "abc1c593fde5"
+      }
+     ]
+    },
+    "370d6711": {
+     "text": "That's it. [[Let them close now]], and let them stay comfortably closed.",
+     "parts": [
+      {
+       "file": "dusk/370d6711-0.mp3",
+       "command": false,
+       "hash": "4594ea4b32fb"
+      },
+      {
+       "file": "dusk/370d6711-1.mp3",
+       "command": true,
+       "hash": "24ecc77c0e2b"
+      },
+      {
+       "file": "dusk/370d6711-2.mp3",
+       "command": false,
+       "hash": "fcb1cf4770bb"
+      }
+     ]
+    },
+    "3fbead9f": {
+     "text": "And if they closed a while ago, simply enjoy resting them.",
+     "parts": [
+      {
+       "file": "dusk/3fbead9f-0.mp3",
+       "command": false,
+       "hash": "5361bdb8f635"
+      }
+     ]
+    }
+   }
+  },
+  "ember": {
+   "name": "Lily",
+   "lines": {
+    "b167a24b": {
+     "text": "Hello. Whenever you are ready, we can drift somewhere quiet together… and you can simply listen.",
+     "parts": [
+      {
+       "file": "ember/b167a24b-0.mp3",
+       "command": false,
+       "hash": "eeab2e1317f9"
+      }
+     ]
+    }
+   }
+  },
+  "tide": {
+   "name": "George",
+   "lines": {
+    "b167a24b": {
+     "text": "Hello. Whenever you are ready, we can drift somewhere quiet together… and you can simply listen.",
+     "parts": [
+      {
+       "file": "tide/b167a24b-0.mp3",
+       "command": false,
+       "hash": "ca1e1de2b116"
+      }
+     ]
+    }
+   }
+  },
+  "moss": {
+   "name": "Matilda",
+   "lines": {
+    "b167a24b": {
+     "text": "Hello. Whenever you are ready, we can drift somewhere quiet together… and you can simply listen.",
+     "parts": [
+      {
+       "file": "moss/b167a24b-0.mp3",
+       "command": false,
+       "hash": "f22ffff5e3cc"
+      }
+     ]
+    }
+   }
+  }
+ }
+}
