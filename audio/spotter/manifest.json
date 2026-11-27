@@ -1,0 +1,343 @@
+{
+  "model": "eleven_multilingual_v2",
+  "clients": {
+    "dana": {
+      "voice": "Laura",
+      "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+      "lines": [
+        {
+          "file": "dana/0.mp3",
+          "hash": "8a33ed24fad8",
+          "text": "Honestly, I've always been like this."
+        },
+        {
+          "file": "dana/1.mp3",
+          "hash": "81f5a92f03ca",
+          "text": "Everyone in my family drinks, so it's just who I am."
+        },
+        {
+          "file": "dana/2.mp3",
+          "hash": "b68db49e306b",
+          "text": "My boss makes me so stressed that by six o'clock I have to have one."
+        },
+        {
+          "file": "dana/3.mp3",
+          "hash": "60c4dca0f1ee",
+          "text": "I can't relax without it. I've tried."
+        },
+        {
+          "file": "dana/4.mp3",
+          "hash": "144138cc498f",
+          "text": "My husband thinks I don't care, but I do."
+        },
+        {
+          "file": "dana/5.mp3",
+          "hash": "124a70c0f0ae",
+          "text": "If I skip a night and then give in, it means the day beat me."
+        },
+        {
+          "file": "dana/6.mp3",
+          "hash": "5d99af4b8cc1",
+          "text": "I just don't want to end up like my dad."
+        },
+        {
+          "file": "dana/7.mp3",
+          "hash": "6b0f25191f3f",
+          "text": "It just happens. I'm not even thinking about it."
+        }
+      ]
+    },
+    "marcus": {
+      "voice": "Liam",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+      "lines": [
+        {
+          "file": "marcus/0.mp3",
+          "hash": "d1ac9d3560af",
+          "text": "I never finish anything. Ever."
+        },
+        {
+          "file": "marcus/1.mp3",
+          "hash": "a9419c8487bb",
+          "text": "My procrastination is out of control."
+        },
+        {
+          "file": "marcus/2.mp3",
+          "hash": "d4acd98d6b77",
+          "text": "I should be able to just sit down and do it, like a normal person."
+        },
+        {
+          "file": "marcus/3.mp3",
+          "hash": "1751b12b50b3",
+          "text": "It's wrong to need this much help at my age."
+        },
+        {
+          "file": "marcus/4.mp3",
+          "hash": "6680d92b1611",
+          "text": "My manager knows I'm a fraud."
+        },
+        {
+          "file": "marcus/5.mp3",
+          "hash": "3e3a055535a6",
+          "text": "The minute I open my laptop, my brain makes me go and check something else."
+        },
+        {
+          "file": "marcus/6.mp3",
+          "hash": "e3b039da2128",
+          "text": "I'm just worse at it."
+        },
+        {
+          "file": "marcus/7.mp3",
+          "hash": "2b3f81c75c43",
+          "text": "My brain is broken, basically. Nothing works."
+        }
+      ]
+    },
+    "priya": {
+      "voice": "Matilda",
+      "voiceId": "XrExE9yKIg1WjnnlVkGX",
+      "lines": [
+        {
+          "file": "priya/0.mp3",
+          "hash": "6e4a94788120",
+          "text": "I can't stick to anything for more than a week."
+        },
+        {
+          "file": "priya/1.mp3",
+          "hash": "1ff46e58eb38",
+          "text": "Everyone at the gym is judging me."
+        },
+        {
+          "file": "priya/2.mp3",
+          "hash": "e81cf14250d9",
+          "text": "So I have to go at five in the morning when nobody's there."
+        },
+        {
+          "file": "priya/3.mp3",
+          "hash": "9ab522770990",
+          "text": "Then I miss one session and that's it, I've failed."
+        },
+        {
+          "file": "priya/4.mp3",
+          "hash": "e0e11755898f",
+          "text": "My motivation just disappears."
+        },
+        {
+          "file": "priya/5.mp3",
+          "hash": "05deca42e0bb",
+          "text": "They say you need to do it for 21 days, and I never make it."
+        },
+        {
+          "file": "priya/6.mp3",
+          "hash": "cf1cd33f667e",
+          "text": "I just want to stop hating what I see in the mirror."
+        }
+      ]
+    },
+    "leon": {
+      "voice": "Bill",
+      "voiceId": "pqHfZKP75CvOlQylNhV4",
+      "lines": [
+        {
+          "file": "leon/0.mp3",
+          "hash": "2ddede936e8e",
+          "text": "I've smoked since I was fifteen. When you start that young, you're hooked for life."
+        },
+        {
+          "file": "leon/1.mp3",
+          "hash": "44476a522552",
+          "text": "The cravings come over me like a wave."
+        },
+        {
+          "file": "leon/2.mp3",
+          "hash": "3e81988c38a8",
+          "text": "My wife knows I'll fail again."
+        },
+        {
+          "file": "leon/3.mp3",
+          "hash": "57c2b334cbb1",
+          "text": "Smoking is the only thing that calms me down."
+        },
+        {
+          "file": "leon/4.mp3",
+          "hash": "25d6cdae419c",
+          "text": "I need to quit before my next scan."
+        },
+        {
+          "file": "leon/5.mp3",
+          "hash": "ebca4bfe037a",
+          "text": "Quitting is just harder for me."
+        },
+        {
+          "file": "leon/6.mp3",
+          "hash": "2d7a689c8a07",
+          "text": "And when I mess this up again, I don't know what I'll do."
+        }
+      ]
+    },
+    "sam": {
+      "voice": "Charlie",
+      "voiceId": "IKne3meq5aSn9XLyUdCD",
+      "lines": [
+        {
+          "file": "sam/0.mp3",
+          "hash": "bc2dbcff75cb",
+          "text": "My phone just takes over."
+        },
+        {
+          "file": "sam/1.mp3",
+          "hash": "4792d627f4db",
+          "text": "I pick it up for one thing and suddenly it's three hours later. Every single time."
+        },
+        {
+          "file": "sam/2.mp3",
+          "hash": "324dc89cda13",
+          "text": "They design these apps to hook you, so what chance do I have?"
+        },
+        {
+          "file": "sam/3.mp3",
+          "hash": "e3a7e8ed973e",
+          "text": "My friends think I'm rude because I'm on it all the time."
+        },
+        {
+          "file": "sam/4.mp3",
+          "hash": "7d973d8ac916",
+          "text": "My focus is gone."
+        },
+        {
+          "file": "sam/5.mp3",
+          "hash": "f009834aaa3b",
+          "text": "I must check it, or I'll miss something."
+        },
+        {
+          "file": "sam/6.mp3",
+          "hash": "63080dc4f4c9",
+          "text": "It's bad to be this hooked on a phone."
+        }
+      ]
+    },
+    "ruth": {
+      "voice": "Alice",
+      "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+      "lines": [
+        {
+          "file": "ruth/0.mp3",
+          "hash": "6b8c3d19b6af",
+          "text": "When I'm upset, food is the only thing that helps."
+        },
+        {
+          "file": "ruth/1.mp3",
+          "hash": "633d3400d1ba",
+          "text": "My mother made me clean my plate, so now I can't leave anything."
+        },
+        {
+          "file": "ruth/2.mp3",
+          "hash": "fd8799db3e8c",
+          "text": "Good people don't waste food."
+        },
+        {
+          "file": "ruth/3.mp3",
+          "hash": "ebdcdc6f2a6d",
+          "text": "If I eat one biscuit, the whole day is ruined."
+        },
+        {
+          "file": "ruth/4.mp3",
+          "hash": "7481e0393b92",
+          "text": "My relationship with food has always been a mess."
+        },
+        {
+          "file": "ruth/5.mp3",
+          "hash": "d267e7cd94fb",
+          "text": "I'm the kind of person who just gives in."
+        },
+        {
+          "file": "ruth/6.mp3",
+          "hash": "26fdd30e63b0",
+          "text": "I don't want to hate myself after every meal anymore."
+        }
+      ]
+    },
+    "theo": {
+      "voice": "Chris",
+      "voiceId": "iP95p4xoKVk53GoZ742B",
+      "lines": [
+        {
+          "file": "theo/0.mp3",
+          "hash": "26a86ecf892e",
+          "text": "As soon as my head hits the pillow, my mind starts racing."
+        },
+        {
+          "file": "theo/1.mp3",
+          "hash": "533be9ae96e8",
+          "text": "I never get more than four hours."
+        },
+        {
+          "file": "theo/2.mp3",
+          "hash": "c5bab79df12d",
+          "text": "I have to replay everything I said that day."
+        },
+        {
+          "file": "theo/3.mp3",
+          "hash": "5f5bee1244c0",
+          "text": "People at work can tell I'm exhausted."
+        },
+        {
+          "file": "theo/4.mp3",
+          "hash": "3b9d07025d0e",
+          "text": "My anxiety won't let me switch off."
+        },
+        {
+          "file": "theo/5.mp3",
+          "hash": "d101618edacf",
+          "text": "Sleep should be easy."
+        },
+        {
+          "file": "theo/6.mp3",
+          "hash": "ac7ca829be18",
+          "text": "I just want it to be better."
+        }
+      ]
+    },
+    "jas": {
+      "voice": "Jessica",
+      "voiceId": "cgSgspJ2msm6clMCkdW9",
+      "lines": [
+        {
+          "file": "jas/0.mp3",
+          "hash": "e9ef7114f5fa",
+          "text": "Sugar is basically a drug for me."
+        },
+        {
+          "file": "jas/1.mp3",
+          "hash": "0bfe45b4d173",
+          "text": "Everyone in my office brings in cakes, so what am I supposed to do?"
+        },
+        {
+          "file": "jas/2.mp3",
+          "hash": "0ded5f1d13a3",
+          "text": "Three o'clock comes and I have to have something."
+        },
+        {
+          "file": "jas/3.mp3",
+          "hash": "81efe8ed506d",
+          "text": "The cravings win every time."
+        },
+        {
+          "file": "jas/4.mp3",
+          "hash": "621a760cebec",
+          "text": "They say you just need willpower."
+        },
+        {
+          "file": "jas/5.mp3",
+          "hash": "0f14ac2d5146",
+          "text": "My partner thinks it's funny."
+        },
+        {
+          "file": "jas/6.mp3",
+          "hash": "cfccd2110b75",
+          "text": "I want to stop feeling like a slave to it."
+        }
+      ]
+    }
+  }
+}
